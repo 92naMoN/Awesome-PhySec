@@ -123,6 +123,13 @@ Check it out for specific information in that domain.
 
 [Awesome-Social-Engineering](https://github.com/v2-dev/awesome-social-engineering)
 
+# :eye: Open Source Intelligence - OSINT 
+
+# :camera: Surveillance 
+
+# RFID 
+
+# Covert Entery
 
 # :pirate_flag: Contributing
 Please contribute if you have more suggestions! My experience is too limited to be truly comprehensive. 
